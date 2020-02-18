@@ -1,4 +1,4 @@
-# FitnessMD_Android
+# FitnessMD Android
 This project was built for my Master's Degree Thesis at Universitatea "Dunarea de Jos" Galati, Romania.
 
 The scope of the project was to build a pedometer using an Arduino Board which connected through Bluetooth to an Android device.
